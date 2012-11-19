@@ -1,6 +1,8 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+        - add client test suites
+        - fix wrong namespace
 
 0.001     2012-11-14
         - Tapper - dependencies for an easy "hello world"-style start
