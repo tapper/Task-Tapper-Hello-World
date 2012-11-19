@@ -40,5 +40,10 @@ package Task::Tapper::Hello::World;
 
 =pkg Tapper::Reports::Web
 
+=pkg Tapper::TestSuite::AutoTest
+
+=pkg Tapper::TestSuite::Benchmark::Perl::Formance
+
+=pkg Tapper::TestSuite::HWTrack
 
 1;
