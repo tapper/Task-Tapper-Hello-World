@@ -46,4 +46,10 @@ package Task::Tapper::Hello::World;
 
 =pkg Tapper::TestSuite::HWTrack
 
+=pkg Tapper::MCP
+
+=pkg Tapper::MCP::MessageReceiver
+
+=pkg Task::Tapper::Client
+
 1;
