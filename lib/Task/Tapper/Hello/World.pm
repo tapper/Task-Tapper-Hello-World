@@ -42,8 +42,6 @@ package Task::Tapper::Hello::World;
 
 =pkg Tapper::TestSuite::AutoTest
 
-=pkg Tapper::TestSuite::Benchmark::Perl::Formance
-
 =pkg Tapper::TestSuite::HWTrack
 
 =pkg Tapper::MCP
@@ -51,5 +49,7 @@ package Task::Tapper::Hello::World;
 =pkg Tapper::MCP::MessageReceiver
 
 =pkg Task::Tapper::Client
+
+=pkg Tapper::Reports::Receiver::Level2::BenchmarkAnything
 
 1;

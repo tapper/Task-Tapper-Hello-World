@@ -1,6 +1,7 @@
 Revision history for {{$dist->name}}
 
 {{$NEXT}}
+        - + Tapper::Reports::Receiver::Level2::BenchmarkAnything
 
 0.002     2012-11-22
         - dzil pluginbundle TAPPER
